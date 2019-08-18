@@ -27,7 +27,7 @@ Let's use `cp` as an example.
 
 ## Demonstrate usage
 
-Live code examples of different use cases.
+Live code examples of different use cases. For command line tools, consider different kinds of arguments and different flags.
 
 E.g.
 

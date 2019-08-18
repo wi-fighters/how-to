@@ -53,3 +53,17 @@ When you start job interviews, you'll thank yourself for keeping an organised li
 It's very common to forget things after a few months, and you'll need to review what you learned when you have an interview coming up.
 
 I'd recommend starting a private repo with notes to yourself, as a refresher on how to talk through key topics.
+
+## Git workflow checklist
+
+Have you been following this workflow?
+
+- Create a new feature branch for every new exercise
+- Commit each part of the exercise as you complete it
+- Commit any comments with questions that come up
+- Commit comments with answers to those questions as you find them
+- Merge your feature branch into master
+
+Does your commit history read like a useful description of the changes you made to your code?
+
+Is all your work backed up on GitHub?

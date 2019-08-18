@@ -1,6 +1,12 @@
 # How to present a topic on review day
 
-## Define the concept
+## Overview
+
+- Practice explaining things as you would to a job interviewer
+- At a minimum, go into as much detail as we covered in class
+- Ideally do some additional research and teach us something new :)
+
+## First define the concept
 
 Let's use `cp` as an example.
 
@@ -25,7 +31,7 @@ Let's use `cp` as an example.
   E.g. This command can overwrite existing files without warning.
   To avoid this, make sure that you specify a destination that does not exist yet (or one that you definitely intend to replace)
 
-## Demonstrate usage
+## Then demonstrate usage
 
 Live code examples of different use cases. For command line tools, consider different kinds of arguments and different flags.
 

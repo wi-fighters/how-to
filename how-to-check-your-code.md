@@ -1,4 +1,4 @@
-# Check your own progress
+# How to check your code
 
 When working on exercises independently, it's common to accidentally race ahead without having understood things clearly.
 
@@ -67,3 +67,8 @@ Have you been following this workflow?
 Does your commit history read like a useful description of the changes you made to your code?
 
 Is all your work backed up on GitHub?
+
+## Documentation checklist
+
+- Document your functions in the style of [JS Docs](https://devhints.io/jsdoc)
+(copy / paste from the website, then adapt it)

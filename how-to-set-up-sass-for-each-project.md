@@ -7,6 +7,7 @@
 2. From the same project directory, install SASS as a **dev dependency** by running `$ npm i -D dart-sass`
 
     - Open `package.json` and check that `dart-sass` appears under `"devDependencies"`.
+    - If you're in a git repo, **make sure that node_modules is in your `.gitignore`**
 
 3. In `package.json`, add this new line (one line) in the `"scripts"` section (you'll also need a comma on the previous line to separate them):
 ```json
